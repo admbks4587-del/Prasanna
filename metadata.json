@@ -1,0 +1,6 @@
+{
+  "name": "AnimeVerse AI",
+  "description": "Generate full anime episodes & movies from a single story idea or document with screenplay, storyboard, voiceovers, subtitles, and smart compression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
